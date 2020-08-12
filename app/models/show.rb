@@ -1,1 +1,4 @@
+
+
 class Show < ActiveRecord
+end
